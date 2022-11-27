@@ -1,6 +1,6 @@
 Challenge "NFT preview card component" from Frontend Mentor.
 
-- Live Site URL: [https://pozemky.github.io/nft-card/](https://pozemky.github.io/nft-card/)
+- Live Site URL: [https://edgardneves.github.io/nft-card/](https://edgardneves.github.io/nft-card/)
 
 ### Built with
 
@@ -19,4 +19,4 @@ Challenge "NFT preview card component" from Frontend Mentor.
 
 - Linkedin - [Edgard Neves](https://www.linkedin.com/in/edgard-jr-neves/)
 - Frontend Mentor - [@pozemky](hhttps://www.frontendmentor.io/profile/pozemky)
-- GitHub - [pozemky](https://github.com/pozemky)
+- GitHub - [edgardneves](https://github.com/edgardneves)
