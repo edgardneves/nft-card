@@ -1,0 +1,58 @@
+body{
+	background-color: hsl(217, 54%, 11%) !important;
+	color: hsl(0, 0%, 100%) !important;
+	font-family: 'Outfit', sans-serif !important;
+	font-size: 18px !important;
+}
+.attribution {
+	font-size: 11px;
+	text-align: center;
+}
+
+.attribution a {
+	color: hsl(228, 45%, 44%);
+}
+
+.card{
+	background-color: hsl(216, 50%, 16%) !important;
+	border-radius: .75rem;
+}
+p{
+	color: hsl(215, 51%, 70%);
+}
+h4:hover{
+	color: hsl(178, 100%, 50%);
+	cursor: pointer;
+}
+small{
+	color: hsl(178, 100%, 50%);
+}
+.time-left{
+	color: hsl(215, 51%, 70%);
+}
+hr{
+	color: hsl(215, 32%, 27%);
+}
+#create{
+	color: hsl(0, 0%, 100%);
+}
+#create:hover{
+	color: hsl(178, 100%, 50%);
+	cursor: pointer;
+}
+#equilibrium{
+	border-radius: .75rem;
+}
+#img-view{
+	display: none;
+	position: absolute;
+	top: 0;
+	left: 0;
+	background-color: hsl(178, 100%, 50%, 50%);
+	color: hsl(0, 0%, 100%);
+	border-radius: .75rem;
+	height: 100%;
+}
+.card-header:hover #img-view{
+	display: flex !important;
+}
